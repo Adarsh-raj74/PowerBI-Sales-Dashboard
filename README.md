@@ -26,7 +26,7 @@ This project is an interactive Sales Dashboard created using Microsoft Power BI.
 ## Dashboard Screenshots
 
 ### Dashboard
-![Dashboard](dashboard%20power%20BI.png)
+![Dashboard](Dashboard%20power%20BI.png)
 
 ### 2nd Page
 ![2nd Page](2nd%20page.png)
