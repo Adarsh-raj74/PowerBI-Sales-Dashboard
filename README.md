@@ -41,5 +41,5 @@ This project is an interactive Sales Dashboard created using Microsoft Power BI.
 ![Product Detail](product%20Detail.png)
 
 ### Tooltip Page
-![Tooltip Page](tooltip.png)
+![Tooltip Page](Tooltip.png)
 
