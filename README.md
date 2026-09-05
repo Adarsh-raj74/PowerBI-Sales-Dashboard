@@ -1,4 +1,4 @@
-# PowerBI-Sales-Deshboard
+# PowerBI-Sales-Dashboard
 Interactive Sales Dashboard created using Microsoft Power BI
 # Power BI Sales Dashboard
 
@@ -41,5 +41,5 @@ This project is an interactive Sales Dashboard created using Microsoft Power BI.
 ![Product Detail](product%20Detail.png)
 
 ### Tooltip Page
-![Tooltip Page](tooltip%20page.png)
+![Tooltip Page](tooltip.png)
 
