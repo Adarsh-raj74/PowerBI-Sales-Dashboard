@@ -22,6 +22,9 @@ This project is an interactive Sales Dashboard created using Microsoft Power BI.
 - Drill Through
 - Tooltips
 - Buttons
+## Project-process-flowchart
+
+![Project Process Flow](project-process-flow.png)
 
 ## Dashboard Screenshots
 
